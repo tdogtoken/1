@@ -15,6 +15,6 @@ See this video guide how to set up thundercore wallet on MetaMask : https://yout
 💞️ Contract Address: 0xc0cd71790E2ad0A82976BC712DEf3045177fe9a8
 📫 View Contract Source Code: https://viewblock.io/thundercore/address/0xc0cd71790e2ad0a82976bc712def3045177fe9a8?tab=code
 
-Buy or Sell TDR on LaserSwap,the only liquidity pool pair we add is:  TDR with Tdog on LaserSwap : https://laserswap.finance
+Buy or Sell TDR on LaserSwap, the only liquidity pool pair we add is:  TDR with Tdog on LaserSwap : https://laserswap.finance
 
 
