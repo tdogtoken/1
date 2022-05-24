@@ -3,7 +3,7 @@ How to Play:
 - Use space key or up arrow key to jump.
 - Use left and right arrow key to move left and right.
 
-- TdogMiner 1 Minutes Mining Game: https://tdogtoken.github.io/1
+- TdogMiner 1 Minute Mining Game: https://tdogtoken.github.io/1
 - TdogMiner 5 Minutes Mining Game: https://tdogtoken.github.io/5
 - TdogMiner 10 Minutes Mining Game: https://tdogtoken.github.io/10
 
