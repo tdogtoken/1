@@ -14,7 +14,7 @@ For phone, only the type which has attached keyboard or connect it with external
 
 For MetaMask wallet run smooth: after you have few transaction, Clik Icon on Right top on wallet, Go to "Settings" and click "Advanced", and then click "Reset Account" to clear history transaction cookie for wallet running smooth.
 
-# You can Send and Receive or exchange TdogMiner (Symbol:TDR) token.
+# You can Send and Receive or exchange TdogMiner token.
 - 👋 TdogMiner is a fully decentralized ThunderCore TT20 mining game token.
 - 🌱 Visit us at https://tdogtoken.github.io/tdog
 - 💞️ Contract Address: 0xc0cd71790E2ad0A82976BC712DEf3045177fe9a8
