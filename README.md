@@ -7,9 +7,14 @@ How to Play:
 - TdogMiner 5 Minutes Mining Game: https://tdogtoken.github.io/5
 - TdogMiner 10 Minutes Mining Game: https://tdogtoken.github.io/10
 
-This is Web3 Decentralized Dapp, in order to claim your TDR mining rewards, you need to install MetaMask in your PC web browser and Set up a THUNDERCORE Wallet on MetaMask. Make sure your wallet has some TT coin to pay network gas fee when you claim TDR after finish each round game.
+This is Web3 Decentralized Dapp, in order to claim your TDR mining rewards, you need to install MetaMask in your PC web browser or MAC (Install Google Chrome), and Set up a THUNDERCORE Wallet on MetaMask. Make sure your wallet has some TT coin to pay network gas fee when you claim TDR after finish each round game.
 See this video guide how to set up thundercore wallet on MetaMask : https://youtu.be/rAqzJ7w0dEI 
 
+For phone, only the type which has attached keyboard or connect it with external keyboard can play it, haven't try it yet. However, you can still claim some TDR rewards on phone by just wait for some TDR drop to game character and after game time finish to claim some rewards.
+
+For MetaMask wallet run smooth: after you have few transaction, Clik Icon on Right top on wallet, Go to "Settings" and click "Advanced", and then click "Reset Account" to clear history transaction cookie for wallet running smooth.
+
+# You can Send and Receive or exchange TdogMiner (Symbol:TDR) token.
 - 👋 TdogMiner is a fully decentralized ThunderCore TT20 mining game token.
 - 🌱 Visit us at https://tdogtoken.github.io/tdog
 - 💞️ Contract Address: 0xc0cd71790E2ad0A82976BC712DEf3045177fe9a8
